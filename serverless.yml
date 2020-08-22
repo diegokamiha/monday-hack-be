@@ -25,7 +25,7 @@ provider:
   runtime: nodejs12.x
 
   environment:
-    GOOGLE_APPLICATION_CREDENTIALS: "./mondayhackathon-qlor-71b6b542cfac.json"
+    GOOGLE_APPLICATION_CREDENTIALS: "./mondayhackathon-qlor-1c638a4d35e6.json"
 
   stage: dev
 
