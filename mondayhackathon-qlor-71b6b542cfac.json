@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mondayhackathon-qlor",
+  "private_key_id": "71b6b542cfac036b6fa62e17a37ce6f9e128c06b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGkl/Q8qpSg1U7\nbIjpOm9lFDSnG9/oqwDtPGZMfJeoHyOAhlRrG/S4BBPGI37HIzO6Dmt29xOjxNAu\nyBQg6m0fW347+z6buHOeMibN6aPIzDM8hRGxAOb+6OXyKV//hxJHG4xaACL61Hkq\n3WUa4WDAIYZMDrlthwnFx5BxVKfHXI01G7bsAndiW0XksJFK6iIu4p/gHXg4kHC6\nUPcRi3pFql4hlZvS1yB1peImj8Jtk02LptzRDw7zWVN6WlHZfoGw9XiJ0oGEfcPV\nfGib9/8mVxtv5+wlhxNVvWlyQwIrbYp8tIBUAR5GVyP/9CTCtzVNODi4D5Fy19tu\nSmGQ0/dRAgMBAAECggEAHP9yK57MXaldMITch4anjtDBEahB7gXO6FYaMFA/i2ck\ntZeoS031UkwSISy8zlLnMmP5sJFLVm6e4j4IpnflgJ9JU3QQxAfPJop3XTmh1+hu\nEQfzufACS7ZyIgeFw9iTRDwTJm9/rDaMDUTwh1jjWptqs7+wt3xxYmcOwmYU7Eln\nBFwygk3xQwip4xHTCm7ZGV5owkuBYBnbnbEeftHPmBCjhCXHpGJf4Bnbevl/YZPf\nrCxWXn0iwv5lpXJCg8edAg9o9s9DljfHNEv+Mq55QsLbQB6fWELl77iw1pBj9bMz\nEwSaH3fcYkgD7rAH4zKj3rU+wMP5R4dl3UPKCMDzGQKBgQD6eSIWksWpYy4BCNUB\n/HMNhJOsvn5AOgM5S3vJ9+ZeeNv1LSZIX7viFi43Dhbsiv+f/qy8Yxp2sll/BLYx\nHItURVzhDSAX3k7V5+zL58HCJbkiGoDyMemit/sAw1ukRbL0rBtMCaB/l2q4fv/x\nDRo0KBCkcUeQd818Z0XL0iEHfQKBgQDK9A/N/tdN6RWSVKZd4Y9lA1d+GX8hADeZ\n2qNB/iAkbgrOhqZM7pC7KDK1JPAE1zcUfhB1+h6OmBbiOdwkG32HOZdcU3v0bDje\nYodLGhSQIbBdDdNgiWAZdxqZLA47dK8Ta/N9xI2kY++OpXQnNirnxySEeyLXfjm/\nDS3uQXl/ZQKBgQCedUXojAA6skEnbGP9tq0+7xHR5k3O6iSh+awd0RRPzhwxltey\nT8Z4ONoSAHrmOOWRXbgAEp5qW1idL+jnVwyaSquAwSH9l6m+T9SSB1OgNOdTuPq8\nvnD1fXlxOSZf3axieANo7mo4bh2ZDNd0s3pRZstojTXeIrzAKEGSuaQlrQKBgHlE\nQZlNd2qHJiuMRuf7mcm6qHGhXHPkhFR67mfFJ4F8+xoSHJYFShd6WmogSwYpbjDh\nboZ/z/hV6f58ogw1HNlK0SUKgRs3+vbuGncGe1jvuEixtSaOjwxIPW1ehJaEDwRk\n0VXJtvSN/hrWw8OWOybIuAos5VGri2ebwWEGYEl9AoGABt4JpBfVXw59qF1kTwBP\nG4MgvMHK36Km9hsjvwWNNdAW7NopeYOnqaLrMUiR0TAG3R0dOkMiKeNYhAddk+7k\neJ08khEfqiokXYnT2fRvX2689ps6zJr4vAnlnRbckB84gyQYrp+eUTP/0Fg/5iEk\nRL1Frh0XpE81HSUV9+ZrcVE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-qsqgkp@mondayhackathon-qlor.iam.gserviceaccount.com",
+  "client_id": "106544215820585946744",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-qsqgkp%40mondayhackathon-qlor.iam.gserviceaccount.com"
+}
