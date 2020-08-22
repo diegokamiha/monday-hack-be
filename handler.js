@@ -8,7 +8,6 @@ const sessionClient = new dialogflow.SessionsClient();
 
 module.exports.hello = async event => {
   var req = JSON.parse(event.body);
-
   console.log(req)
 
   var res = await detectIntent(req.text)
@@ -48,4 +47,3 @@ async function detectIntent(query) {
   const responses = await sessionClient.detectIntent(request);
   return responses[0];
 }
-

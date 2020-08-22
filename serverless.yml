@@ -13,8 +13,8 @@
 
 service: monday-hack
 # app and org for use with dashboard.serverless.com
-app: monday-hack-app
-org: diegokamiha17
+# app: monday-hack-app
+# org: diegokamiha17
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
@@ -24,9 +24,10 @@ provider:
   name: aws
   runtime: nodejs12.x
 
-# you can overwrite defaults here
-#  stage: dev
-#  region: us-east-1
+  environment:
+    GOOGLE_APPLICATION_CREDENTIALS: "./mondayhackathon-qlor-71b6b542cfac.json"
+
+  stage: dev
 
 # you can add statements to the Lambda function's IAM Role here
 #  iamRoleStatements:
@@ -44,18 +45,10 @@ provider:
 #            - "Ref" : "ServerlessDeploymentBucket"
 #            - "/*"
 
-# you can define service wide environment variables here
-#  environment:
-#    variable1: value1
-
 # you can add packaging information here
-#package:
-#  include:
-#    - include-me.js
-#    - include-me-dir/**
-#  exclude:
-#    - exclude-me.js
-#    - exclude-me-dir/**
+# package:
+#   exclude:
+#     - mondayhackathon-qlor-71b6b542cfac.json
 
 functions:
   hello:
