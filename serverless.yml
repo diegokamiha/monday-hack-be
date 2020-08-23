@@ -24,6 +24,10 @@ provider:
   name: aws
   runtime: nodejs12.x
 
+  apiGateway: # Optional API Gateway global config
+    binaryMediaTypes: # Optional binary media types the API might return
+      - 'multipart/form-data'
+
   environment:
     GOOGLE_APPLICATION_CREDENTIALS: "./mondayhackathon-qlor-1c638a4d35e6.json"
 
